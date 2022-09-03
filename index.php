@@ -7,7 +7,7 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Sistema Panificadora</title>
+  <title>Sistema Panificadora.</title>
   <!-- plugins:css -->
   <link rel="stylesheet" href="./view/vendors/feather/feather.css">
   <link rel="stylesheet" href="./view/vendors/ti-icons/css/themify-icons.css">
